@@ -1,0 +1,51 @@
+.container {
+    flex-wrap: wrap;
+}
+
+h1,
+h2 {
+    margin: 50px 37px;
+    border: 10px 10px rgb(8, 1, 1);
+    background-color: rgb(224 42 241);
+    box-shadow: 20px 19px 9px rgb(109, 85, 85);
+    border-radius: 50px;
+    /* display:inline-block; */
+    text-align: center;
+    text-shadow: 2px 1px 1px rgb(249 10 0);
+    font-size: 40px;
+    /* font-family: 'Nerko One', cursive; */
+    font-family: 'Lobster', cursive;
+}
+
+.atb {
+    background-color: rgb(54, 197, 102);
+    padding: 10px;
+    margin: 150px 20px;
+    border-radius: 50px;
+    /*font-family: 'Nerko One', cursive; */
+    text-decoration: none;
+}
+
+.atb:hover {
+    background-color: rgb(235, 118, 163);
+    /*font-weight: bold;*/
+    box-shadow: 5px 5px 5px rgb(226, 107, 107)
+}
+
+
+
+#atb13 {
+    font-size: 500px;
+    
+}
+
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    /* margin-top: 20%; */
+}
+#clock {
+    font-size: 3em;
+    color: #333;
+}
+
